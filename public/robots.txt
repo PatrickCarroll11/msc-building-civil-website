@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://PatrickCarroll11.github.io/msc-building-civil-website/sitemap.xml
